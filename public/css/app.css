@@ -1,0 +1,11 @@
+body, input, textarea, select, li, ul , div, a, dd, p, pre, text,h3{font-family: 'K2D',Arial, Helvetica, sans-serif !important;}
+
+body{
+    background-color: #f8f9fa !important;
+}
+.font-chonburi{
+    font-family: 'Chonburi',Arial, Helvetica, sans-serif !important;
+}
+.font-09rem{
+    font-size: 0.9rem;
+}
